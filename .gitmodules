@@ -1,0 +1,4 @@
+[submodule "themes/butterfly"]
+	path = themes/butterfly
+	url = git@github.com:gukaifeng/hexo-theme-butterfly.git
+	branch = gukaifeng.cn
