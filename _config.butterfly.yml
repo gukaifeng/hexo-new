@@ -226,7 +226,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: '做事前要三思<br /><- 能不能不做 -><br /><- 能不能甩给别人做 -><br /><- 能不能明天做 ->'
     button:
       enable: false
       icon: fab fa-github
