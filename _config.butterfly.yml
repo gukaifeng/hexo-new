@@ -407,6 +407,7 @@ comments:
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   use: Twikoo,Utterances # Valine,Disqus
   text: true # Display the comment name next to the button
+  description: "- 邮箱：请正确填写您的邮箱，当您的评论收到回复时我们会使用邮件通知您。<br />- 网址（可选）：建议填写您的个人站点或 GitHub 主页，以便其他人可以更容易地找到您。<br />- 头像：如果您填写的是 QQ 邮箱，那么将自动使用您的 QQ 头像。如果您填写的是其他邮箱，则将在 <a href=\"https://cravatar.cn\" target=\"_blank\">https://cravatar.cn</a> 查找与您填写邮箱匹配的头像。如果您未在 <a href=\"https://cravatar.cn\" target=\"_blank\">https://cravatar.cn</a> 使用邮箱注册，则使用默认灰色头像。"
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
   lazyload: false
