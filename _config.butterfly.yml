@@ -483,7 +483,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://gukaifeng.cn:8081
+  envId: https://gukaifeng.zeabur.app
   region:
   visitor: false
   option:
