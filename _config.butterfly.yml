@@ -915,13 +915,6 @@ inject:
     - <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
     - <script>new LingQue.Monitor().init({id:"3F2Pmm6gmv8iPGsU"});</script>
 
-    # reward.js
-    - <script type="text/javascript" src ="/js/reward.js" ></script>
-    - <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.6.16/dist/sweetalert2.all.min.js"></script>
-
-    # random post
-    - <script type="text/javascript" src ="/js/random.js" ></script>
-
   bottom:
     # - <script src="xxxx"></script>
 
@@ -947,8 +940,6 @@ CDN:
   custom_format:
 
   option:
-    # countupJS
-    countup_js: /js/countup.js
     # main_css:
     # main:
     # utils:
