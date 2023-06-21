@@ -908,6 +908,12 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+
+    # 51.la
+    - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+    - <script>LA.init({id:"3F2P5PzIqKIKJnvm",ck:"3F2P5PzIqKIKJnvm"})</script>
+    - <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
+    - <script>new LingQue.Monitor().init({id:"3F2Pmm6gmv8iPGsU"});</script>
   bottom:
     # - <script src="xxxx"></script>
 
