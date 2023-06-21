@@ -921,6 +921,7 @@ inject:
 
     # random post
     - <script type="text/javascript" src ="/js/random.js" ></script>
+
   bottom:
     # - <script src="xxxx"></script>
 
