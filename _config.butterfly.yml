@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/avatar.png
+  img: /img/avatar.webp
   effect: false
 
 # Disable all banner image
@@ -774,7 +774,7 @@ preloader:
   # fullpage-loading
   load_color: '#000000' # '#37474f'
   load_style: image # default|gear|wizard|cat|pokeball|image
-  load_image: /img/avatar.png # url for image
+  load_image: /img/avatar.webp # url for image
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
 
