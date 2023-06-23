@@ -915,6 +915,9 @@ inject:
     - <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
     - <script>new LingQue.Monitor().init({id:"3F2Pmm6gmv8iPGsU"});</script>
 
+    # jquery
+    - <script type="text/javascript" src="https://unpkg.zhimg.com/jquery@latest/dist/jquery.min.js"></script> # 腾讯地图定位 - 定制化JS
+
   bottom:
     # - <script src="xxxx"></script>
 
