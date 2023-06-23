@@ -33,8 +33,8 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/gukaifeng || Github || '#24292e'
-  fas fa-envelope: mailto:892859816@qq.com || Email || '#24292e'
+  fab fa-github: https://github.com/gukaifeng || Github
+  fas fa-envelope: mailto:892859816@qq.com || Email
 
 # Image (圖片設置)
 # --------------------------------------
