@@ -199,8 +199,8 @@ noticeOutdate:
   style: flat # style: simple/flat
   limit_day: 500 # When will it be shown
   position: top # position: top/bottom
-  message_prev: It has been
-  message_next: days since the last update, the content of the article may be outdated.
+  message_prev: 这篇文章距离上次更新已经有
+  message_next: 天了，请注意内容是否已经过时哦！
 
 # Footer Settings
 # --------------------------------------
