@@ -732,7 +732,7 @@ beautify:
 font:
   global-font-size: 18px
   code-font-size: 15px
-  font-family: FZFWZhuZiAYuanJWM
+  font-family: sans-serif
   code-font-family: SourceCodePro-Regular
 
 # Font settings for the site title and site subtitle
