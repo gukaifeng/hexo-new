@@ -962,7 +962,7 @@ CDN:
     # valine:
     # disqusjs:
     # disqusjs_css:
-    # twikoo:
+    twikoo: https://gukaifeng.cn/source/js/qjqq.cn.twikoo.all.min.js
     # waline_js:
     # waline_css:
     # giscus:
