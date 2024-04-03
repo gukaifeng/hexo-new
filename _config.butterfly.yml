@@ -613,12 +613,12 @@ site_verification:
 theme_color:
   enable: true
   main: "#1b3f34"
-  # paginator: "#00c4b6"
-  # button_hover: "#FF7242"
+  paginator: "#225a50"
+  button_hover: "#225a50"
   text_selection: "#225a50"
   link_color: "#1b3f34"
   meta_color: "#1b3f34"
-  # hr_color: "#A4D8FA"
+  hr_color: "#225a50"
   # code_foreground: "#F47466"
   # code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#225a50"
