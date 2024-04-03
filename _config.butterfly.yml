@@ -612,18 +612,18 @@ site_verification:
 
 theme_color:
   enable: true
-  main: "#1b3f34"
+  main: "#225a50"
   paginator: "#225a50"
-  button_hover: "#225a50"
+  button_hover: "#1b3f34"
   text_selection: "#225a50"
   link_color: "#1b3f34"
   meta_color: "#1b3f34"
-  hr_color: "#225a50"
+  hr_color: "#1b3f34"
   # code_foreground: "#F47466"
   # code_background: "rgba(27, 31, 35, .05)"
   toc_color: "#225a50"
   blockquote_padding_color: "#225a50"
-  blockquote_background_color: "#49b1f5"
+  blockquote_background_color: "#AEE3D6"
   scrollbar_color: "#1b3f34"
   # meta_theme_color_light: "ffffff"
   # meta_theme_color_dark: "#0d0d0d"
