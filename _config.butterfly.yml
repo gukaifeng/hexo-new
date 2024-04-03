@@ -614,9 +614,9 @@ theme_color:
   enable: true
   main: "#225a50"
   paginator: "#225a50"
-  button_hover: "#5EC5AD"
+  button_hover: "#155046"
   text_selection: "#225a50"
-  link_color: "#1b3f34"
+  link_color: "#2BA893"
   meta_color: "#1b3f34"
   hr_color: "#1b3f34"
   # code_foreground: "#F47466"
